@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "saloon-chatbot-bbbn",
+  "private_key_id": "82b3461a0f00d21a92c466ac5b5e15d4ba8c73f9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDKfkhA3iQJfvEK\n9HpdaMNQrxF9AeIVMIxW1s0DPjsirblGoLRda29gB33K+mH2Y1OuYkK9z68/y+O0\nz8PXcySEwkgzeq4K1LXSFufo2WgDnYCuOgXwuGqn8EiHb8U3GKx4zw0r1HV2WEAG\nUPaeKNC5RBRKXB4PKJyooUNUiBNY+GJjZsiVhFb3bGE86P6iOlqS9NaBdfMA7n2Y\nAh3A+eXeYgJtoRIznKvnwb8l9C3bjTxs/zHWv+x5l4q4FYo926+rsayYENCg/Izn\n9M1BZYOj0dOqshuinfuTIjqDGDTrYOeosDmui9D8Z76IuIyWundUfs+ssH1iwvqM\nOt6HloipAgMBAAECggEAOZUMnemtrMec6wUXsO1kMVL/caFx9Z2fIuilVwlAzr1B\nJRz4/WHaQ6ANvQVTizm2p63IlepzxvwHbjjw05kqJtiKqJz31huj8rDR1OzR/8kv\nuRvF6ay/o68YKO93URIipZ4XfEHH/1XcKw+l+dbYd/6smHK2l4/wcKGfIHArtE43\n9mTp4VvUSMevkE1efPnjl8Kin+Bgr1bLCOZKpkmjcp6LwkZD6hzpgRWvE1K3N3Pw\nFoFOrX+20AX878hX4Fx6MaNZr0w8xsy1oeOLaZSKcNn0WhC3SNz2jT3J131XRowb\ni4Y3dtoQpx7K0svV22IPGKR/Mbr4+ILEbspIN5SrEwKBgQD0f/o5IZsTQ5jir023\nsoRqxQWVxk/or41mfJr1QS8hYEd4TQLp1wGLzBGUb2Hvb7WnArhCxx7kE84yLwX5\nc2Xw/oz/xz/PGA37o8eSfT0PdlRWoMYMZYllmubpH+PZPI1Jie0f5/V2eXB191el\nJlUikVfpwN4NxdBF3MNF0DqjAwKBgQDUBIDTJHaeJ9vQXiliR+2W0wVUN1HMCmHu\nD02ya1WgXnR0Ea+X8eO8II/ghbalHOc+IJ+dM31XVL/HZ9zcrp/9mgH6qIdEfGsM\nZFaWAlY8u1rstZC/kN6cBk6TSNP1bhhVSZpE5oY0zWldoa56j4fdar4eU7HtA4Bb\ncg/oFmj/4wKBgQDWYMwOgefOCUwpHppfQjiWwW+3Nm3kUOEDhqf7+Q6RDjE8SxIN\n5MZnRCP56XuOjH1TFbBoZN0yECeQmuh7I3Kzzw3kS1kohSflh2I6kHMUdqVWW5ur\nTPAe1aY3rA2E8XHUlAoFGsZ//dTcqmX/2U92gsf5nnFU1ChcyUeyk/SF7wKBgHED\nrX/fMfOAH6Xka37eBIGfHnoTuuBesHDra2kt2cjQUJcGTmlaISDI4qi13fQJgiIV\n1b9AERIaNNggPxTLaLEQBPoOF3ykLZO/cIAp4rogzIjdB7l1iZP1sLDF42YyN3pO\n75LGpsdCr2Wfp5fhJnUaTxlvV6qVcThNhrkaKQItAoGBALkp2XIfBp22DouuEqNq\nR0l/8iFZ3k2AP4Ru7raaELm1J/GDxfYNXmjxmPsdbaEDS8i8ZM4N8U8iGTYCg6d/\njlCVtfvcLeR0iXFNCq21S6EbtBmMyiUXN/MJDleIH4mpno7pcsNyix5N5+tCfNcm\nkz+xYm9MD4pLNZIchl2vX/WD\n-----END PRIVATE KEY-----\n",
+  "client_email": "datastoreaccess@saloon-chatbot-bbbn.iam.gserviceaccount.com",
+  "client_id": "110069529982006302348",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/datastoreaccess%40saloon-chatbot-bbbn.iam.gserviceaccount.com"
+}

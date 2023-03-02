@@ -1,0 +1,19 @@
+<table class="table table-striped table-hover table-bordered text-center">
+    <thead class="table-dark">
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Contact</th>
+            <th>Slot</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let appointment of appointments">
+            <td>{{appointment.id}}</td>
+            <td>{{appointment.name}}</td>
+            <td>{{appointment.phone}}</td>
+            <td>{{appointment.slot}}</td>
+
+        </tr>
+    </tbody>
+</table>
