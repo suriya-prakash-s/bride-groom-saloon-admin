@@ -1,0 +1,16 @@
+runtime: nodejs16
+service: saloon-admin
+
+instance_class: F2
+
+#mods
+#env_variables: 
+#  BUCKET_NAME: "bridegroomsaloon"
+
+handlers:
+- url: /
+  static_files: dist/bride-groom-datastore-angular-app/index.html
+  upload: dist/bride-groom-datastore-angular-app/index.html
+
+- url: /
+  static_dir: dist/bride-groom-datastore-angular-app
